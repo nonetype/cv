@@ -34,12 +34,12 @@ Uiwang, South Korea
 <br><br>
 
 ## Portfolio
-**CodeBlue 2020 Speaker** _(Oct 2020)_ <br>
+**HITB+ CyberWeek 2020 Speaker** _(Nov 2020)_ <br>
 Online
   - Kernel Exploit with Filesystem Fuzzer
 <br><br>
 
-**HITB+ CyberWeek 2020 Speaker** _(Oct 2020)_ <br>
+**CodeBlue 2020 Speaker** _(Oct 2020)_ <br>
 Online
   - Kernel Exploit with Filesystem Fuzzer
 <br><br>
