@@ -1,5 +1,5 @@
 # Wonyoung Jung
-[Email](mailto:wonyoung.jung@kaist.ac.kr)
+[Email](mailto:wonyoung.jung@kaist.ac.kr) / [Blog](https://nonetype.kr/)
 
 ## Interests
 - Automatic binary analysis, Fuzzing, Software development
