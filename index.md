@@ -14,7 +14,7 @@ Seoul, South Korea
 ## Education
 **Korea Advanced Institute of Science and Technology (KAIST)** _(Mar 2022 - PRESENT)_ <br>
 Daejeon, South Korea
-  - M.S in Information Security
+  - M.S in Graduate School of Information Security (GSIS), @ [Hacking Lab](https://kaist-hacking.github.io/)
 <br><br>
 
 **Korea national university of transportation(KTNU)** _(Mar 2019 - Feb 2022)_ <br>
