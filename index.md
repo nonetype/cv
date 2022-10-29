@@ -23,6 +23,11 @@ Uiwang, South Korea
 <br><br>
 
 ## Projects
+**IoT Device Vulnerability Research** @ [Diffense](https://diffense.com/) _(Mar 2021 - Oct 2021)_ <br>
+  - 0-day research on several IoT devices
+  - **_Technologies used:_** Reversing, Source Code Audit, Python, etc.
+<br><br>
+
 **PDF Vulnerability Research** @ [Diffense](https://diffense.com/) _(Dec 2020 - Feb 2021)_ <br>
   - 0-day research on PDFium, Adobe Reader DC, Foxit PDF Reader
   - **_Technologies used:_** Python, Reversing, C/C++, Fuzzing, etc.
@@ -42,4 +47,8 @@ Online
 **CodeBlue 2020 Speaker** _(Oct 2020)_ <br>
 Online
   - Kernel Exploit with Filesystem Fuzzer
+<br><br>
+
+**30+ CVEs** _(- PRESENT)_ <br>
+  - Found bugs in Chromium (PDFium), PDF readers, Linux kernel drivers, etc.
 <br><br>
