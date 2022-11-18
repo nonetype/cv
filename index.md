@@ -33,9 +33,15 @@ Uiwang, South Korea
   - **_Technologies used:_** Python, Reversing, C/C++, Fuzzing, etc.
 <br><br>
 
-**Docker & Kubernetes Vulnerability Research** @ [Diffense](https://diffense.com/) _(May 2020 - Oct 2020)_ <br>
+**Docker & Kubernetes Vulnerability Research** @ [Diffense](https://diffense.com/) _(July 2020 - Oct 2020)_ <br>
   - 1-day research on Docker, Kubernetes
   - **_Technologies used:_** Golang, Python, Docker/Kubernetes management, etc.
+<br><br>
+
+**Windows Kernel Vulnerability Research** @ [Diffense](https://diffense.com/) _(Apr 2020 - July 2020)_ <br>
+  - 1-day vulnerability research and exploitation on Windows kernel
+  - Related links: [SMBGhost Exploitation](https://web.archive.org/web/20201130040842/http://blog.diffense.co.kr/2020/09/24/SMBGhost.html)
+  - **_Technologies used:_** Reversing, Python, etc.
 <br><br>
 
 ## Portfolio
@@ -47,6 +53,11 @@ Online
 **CodeBlue 2020 Speaker** _(Oct 2020)_ <br>
 Online
   - Kernel Exploit with Filesystem Fuzzer
+<br><br>
+
+**Diffense Windows Kernel Exploitation Taining - Trainer** _(Sep 2020)_ <br>
+Online
+  - Windows Kernel Exploitation Techniques
 <br><br>
 
 **30+ CVEs** _(- PRESENT)_ <br>
