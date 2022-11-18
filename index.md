@@ -38,7 +38,7 @@ Uiwang, South Korea
   - **_Technologies used:_** Golang, Python, Docker/Kubernetes management, etc.
 <br><br>
 
-**Windows Kernel Vulnerability Research** @ [Diffense](https://diffense.com/) _(Apr 2020 - July 2020)_ <br>
+**Windows Kernel Vulnerability Research** @ [Diffense](https://diffense.com/) _(Apr 2020 - Jul 2020)_ <br>
   - 1-day vulnerability research and exploitation on Windows kernel
   - Related links: [SMBGhost Exploitation](https://web.archive.org/web/20201130040842/http://blog.diffense.co.kr/2020/09/24/SMBGhost.html)
   - **_Technologies used:_** Reversing, Python, etc.
