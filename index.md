@@ -17,7 +17,7 @@ Daejeon, South Korea
   - M.S in Graduate School of Information Security (GSIS), @ [Hacking Lab](https://kaist-hacking.github.io/)
 <br><br>
 
-**Korea national university of transportation(KTNU)** _(Mar 2019 - Feb 2022)_ <br>
+**Korea National University of Transportation(KTNU)** _(Mar 2019 - Feb 2022)_ <br>
 Uiwang, South Korea
   - B.S in Computer Science and Engineering
 <br><br>
