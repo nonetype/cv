@@ -5,6 +5,11 @@
 - Fuzzing, Exploitation, Vulnerability Analysis Automation, Software development
 
 ## Work Experience
+**Security Researcher** @ [78ResearchLab](https://www.78researchlab.com/) _(Mar 2024 - PRESENT)_ <br>
+Seoul, South Korea
+  - Vulnerability research and N-day exploitation
+<br><br>
+
 **Security Researcher** @ [Diffense](https://diffense.com/) _(Apr 2020 - Oct 2021)_ <br>
 Seoul, South Korea
   - Vulnerability research and N-day exploitation
@@ -12,7 +17,7 @@ Seoul, South Korea
 <br><br>
 
 ## Education
-**Korea Advanced Institute of Science and Technology (KAIST)** _(Mar 2022 - PRESENT)_ <br>
+**Korea Advanced Institute of Science and Technology (KAIST)** _(Mar 2022 - Feb 2024)_ <br>
 Daejeon, South Korea
   - M.S in Graduate School of Information Security (GSIS), @ [Hacking Lab](https://kaist-hacking.github.io/)
 <br><br>
@@ -67,5 +72,5 @@ Offline
 <br><br>
 
 **30+ CVEs** _(- PRESENT)_ <br>
-  - Found bugs in Chromium (PDFium), PDF readers, Linux kernel drivers, etc.
+  - Found bugs in JavaScript Engines (V8 and JavaScriptCore), Chromium (PDFium), PDF readers, Linux kernel drivers, etc.
 <br><br>
